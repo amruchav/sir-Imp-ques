@@ -1,0 +1,133 @@
+INTRODUCTION TO SOFTWARE ENGINEERING
+
+SDLC Models
+
+	1. Waterfall
+	2. V - Models (Cerification/Validation Model)
+	3. Evolutionary Model
+	4. Throw Away
+	5. Incremental
+
+V - Model is ideal for projects where requirements are well known upfront,
+	needs very high level of reliability and is of small size
+
+Definition of agile
+	->Communication
+	->Simplicity
+	->Feedback
+
+Functional and Non Functional Requirement
+	Page 22
+
+	Reworking requirements cost 40-50% of project effort
+
+Requirements Deliverables Page - 28
+	->SRS/USE Case Document
+	->UI Design
+	->Acceptance Criteria
+	->Interface requirements
+
+Design Deliverables Page - 32
+	->SAD
+	->HLD->
+	->LLD->
+	->ITP
+
+Construction Phase Page -> 36
+	->Test Reports
+	->Baseling Sourse code
+
+Pg 38 - > Testing
+
+	Black Box Testing
+	White Box Testing
+
+System Testing
+	->Functional Testing ->Functional requirements
+	->Performance Testing ->Non Functional Requirements
+
+Acceptance Testing -> IMP
+	-> Alpha Testing - Internal Testing - Software Vendors
+	-> Beta Testing - User Acceptance - End Users
+
+Types of Review - Page 47
+	->Self Review - Self
+	->Peer Review - Colleague/Team Lead
+	Review Guidelines, Rules and Checklist
+
+	Software Configuration Management - Page - 52
+	->Configuration Managers are responsible for planning the CM
+	activities of their project
+	->Role of Configuration Manager
+	->What is configuration management
+
+	SCM -> Page 53
+	Why do we need SCM
+	4 ques
+
+	CI and NON CI Page -> 55
+	->Configurable Item (CI)
+	->Non Configurable Item (NCI)
+
+	Version Numbering -> Page 59
+	version number. revision number
+
+	Baseline is a configurable Item - Page 61
+	->A 'baseline' is a CI that has been reviewed and agreed upon and is a basis for further
+	development.
+	->Baselining can be of many types - Input baseline, design baseline, code baseline etc
+
+	SCM Tools - Page 65
+	Facilities of SCM Tools
+	->Build and release management -> Maven
+	->Defect Management and tracking
+	->Packaging control
+
+	Configuration Manager Roles - Page 66
+	->Greater access than all team-members
+	->Creates the basic environment for his projects configuration management
+	->Responsible for moving files across projects, establishing baselines, adding
+	requirements files, preparing guidelines, etc
+
+
+1. 	Bottom Up Integration Testing - Drivers are removed and clusters are combined moving upward 
+	in the program structure.
+
+	2. Static Testing is needed for - All
+	
+	3. Not a black box testing rechnique - Equivalence partitioning, Boundary value analysis, Error Guessing, Statement Coverage
+		-Statement Coverage
+		
+	4. Enables test case disigner to derive logical complexity- Path testing
+	
+	5. x.y - version.revision
+	
+	6. Baseling
+	
+	7. SCM - hardware, software, change, auditing
+	
+	8. Not maintained configuration management - Wrong version numbnbers, redundant file creation
+	
+	9. System testing checks correctiness functionality - false
+		Unit testing checks correctness of functionality- true
+		
+	10. System Testing Not true- testing done from development perspective
+	
+	11. True for reviews - can be done in all phases
+	
+	12. Not a non functional requirement - Business Process
+		Non functional security, response time, usability
+		
+	13. Acceptance Testing - Alpha and Beta
+	
+	14. Functional Testing - To check functions
+	
+	15. Alpha testing done at developers end
+	
+	16. Alpha and beta types of performance - false
+	
+	17. System Testing - Functional and Performance
+	
+	18. 
+	
+	
